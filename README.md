@@ -1,12 +1,22 @@
-<div align="center">
+<p align="center">
+  <img src="imagens/readme.png" alt="Danielly Dellova" width="250">
+</p>
 
-# 👋 Olá, eu sou Danielly Dellova!
+<h1 align="center">👋 Olá, eu sou Danielly Dellova!</h1>
 
-### 📊 Data Analyst | Python | SQL | Data Visualization
+<p align="center">
+  <strong>📊 Data Analyst | Python | SQL | Data Visualization</strong>
+</p>
 
-Transformando dados em informações que ajudam a contar histórias e apoiar decisões.
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-8A2BE2?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-6F42C1?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-9B59B6?style=for-the-badge&logoColor=white">
+</p>
 
-</div>
+<p align="center">
+  Transformando dados em informações que ajudam a contar histórias e apoiar decisões.
+</p>
 
 ---
 
@@ -26,10 +36,10 @@ Meu objetivo é construir uma carreira na área de **Dados**, desenvolvendo solu
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Faker](https://img.shields.io/badge/Faker-2C2D72?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -37,9 +47,9 @@ Meu objetivo é construir uma carreira na área de **Dados**, desenvolvendo solu
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge\&logo=dbeaver\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 </div>
 
@@ -47,18 +57,19 @@ Meu objetivo é construir uma carreira na área de **Dados**, desenvolvendo solu
 
 <div align="center">
 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-8A2BE2?style=for-the-badge&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-9B59B6?style=for-the-badge&logo=powerbi&logoColor=white)
 
 </div>
 
-### 🔧 Ferramentas
+### 🛠️ Ferramentas
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6F42C1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-9B59B6?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-6F42C1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -82,7 +93,7 @@ O projeto também conta com indicadores e dashboard para visualização dos prin
 
 Projeto de estudo voltado para análise financeira, simulando uma empresa fictícia para acompanhar despesas, orçamento e indicadores de desempenho.
 
-**Tecnologias:** Python · Pandas · SQL · MySQL · DBeaver · Looker Studio
+**Tecnologias:** Python · Pandas · SQL · MySQL · DBeaver · Looker Studio · Power BI
 
 🚧 Projeto em desenvolvimento
 
@@ -100,18 +111,6 @@ Projeto de estudo voltado para análise financeira, simulando uma empresa fictí
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dellovad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellovad&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🎯 Objetivo
 
 Construir uma carreira na área de **Dados**, desenvolvendo soluções capazes de transformar dados em informações úteis para apoiar decisões de negócio.
@@ -125,11 +124,11 @@ Busco oportunidades onde eu possa continuar aprendendo, aplicar meus conheciment
 <div align="center">
 
 <a href="https://github.com/dellovad">
-<img src="https://img.shields.io/badge/GitHub-dellovad-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-dellovad-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/danielly-dellova-6b4167242/">
-<img src="https://img.shields.io/badge/LinkedIn-Danielly%20Dellova-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Danielly%20Dellova-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
